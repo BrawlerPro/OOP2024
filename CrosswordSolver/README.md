@@ -23,3 +23,4 @@ cmake --build .
 cd build
 ctest
 ```
+![image](https://github.com/user-attachments/assets/4fb402db-56b7-468d-9204-9b8a7dcbbb04)
